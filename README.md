@@ -96,8 +96,8 @@ Stats-Calculator/
 ## Authors
 
 - **Minh (Mark) Pham** – [LinkedIn](https://www.linkedin.com/in/minhbphamm/)
-- **Hoan Nguyen** – [LinkedIn](https://www.linkedin.com/in/hoanng15/)
 - **Giang(Gina) Nguyen** - [LinkedIn](https://www.linkedin.com/in/ninhgiangnguyen/)
+- **Hoan Nguyen** – [LinkedIn](https://www.linkedin.com/in/hoanng15/)
 
 ---
 
